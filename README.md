@@ -9,3 +9,4 @@
 ## 업데이트 방법
 
 앱 프로젝트에서 제품 데이터를 수정한 뒤 `tool/generate_catalog_json.dart`를 실행합니다. 생성된 `data/catalog.json`을 이 저장소의 `catalog.json`으로 교체하고, 검증 후 `main` 브랜치에 올립니다.
+<!-- push-test OK -->
