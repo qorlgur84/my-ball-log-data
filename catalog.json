@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-07T09:18:45.976Z",
+  "updatedAt": "2026-09-07T09:24:28.862Z",
   "balls": [
     {
       "id": "900-honey-badger-darkout",
@@ -42715,6 +42715,20 @@
       "intDiff": 0.017,
       "releaseYear": 2025,
       "note": "Source: perfectkorea.com (Ebonite/Track Korea official importer)"
+    },
+    {
+      "id": "brunswick-lt-48-pro-sapphire",
+      "brand": "Brunswick",
+      "name": "LT-48 Pro Sapphire",
+      "imageUrl": "https://ecimg.cafe24img.com/pg2569b05229912091/roundh/web/product/big/20260323/1afa9a95cd07a5d87969784d3fd82882.png",
+      "coverstock": "Savvy Hook Ultra+ HK22",
+      "coreType": "비대칭",
+      "finish": "500/1000 Siaair/Crown Factory Compound",
+      "rg": 2.488,
+      "diff": 0.052,
+      "intDiff": 0.015,
+      "releaseYear": 2025,
+      "note": "Source: brunswickkorea.co.kr (Brunswick/Radical/DV8 Korea official importer) - Johnny Petraglia signature line"
     }
   ],
   "aliases": {
@@ -45768,7 +45782,8 @@
     "track-theorem-red-pearl": "씨어럼 레드 펄",
     "track-theorem-78d-urethane": "씨어럼 78D 우레탄",
     "track-theorem-black-urethane": "씨어럼 블랙 우레탄",
-    "track-theorem-pearl-urethane": "씨어럼 펄 우레탄"
+    "track-theorem-pearl-urethane": "씨어럼 펄 우레탄",
+    "brunswick-lt-48-pro-sapphire": "LT-48 프로 사파이어"
   },
   "releaseDateSortKeys": {
     "900-honey-badger-darkout": 20260723,
@@ -48821,6 +48836,7 @@
     "track-theorem-red-pearl": 20250101,
     "track-theorem-78d-urethane": 20260101,
     "track-theorem-black-urethane": 20250101,
-    "track-theorem-pearl-urethane": 20250101
+    "track-theorem-pearl-urethane": 20250101,
+    "brunswick-lt-48-pro-sapphire": 20250101
   }
 }
