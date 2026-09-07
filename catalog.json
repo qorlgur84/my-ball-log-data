@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-04T13:16:57.509384Z",
+  "updatedAt": "2026-09-07T07:43:31.871Z",
   "balls": [
     {
       "id": "900-honey-badger-darkout",
@@ -19927,7 +19927,7 @@
     {
       "id": "columbia-ran-om-demand",
       "brand": "Columbia 300",
-      "name": "Ran$om Demand",
+      "name": "Ran\\$om Demand",
       "imageUrl": "https://bowwwl.com/sites/default/files/styles/ball_thumbnail/public/balls/columbia-300-ransom-demand.png?itok=cWuVp5ii",
       "coverstock": "MegaTrac",
       "coreType": "비대칭",
@@ -19941,7 +19941,7 @@
     {
       "id": "columbia-ran-om",
       "brand": "Columbia 300",
-      "name": "Ran$om",
+      "name": "Ran\\$om",
       "imageUrl": "https://bowwwl.com/sites/default/files/styles/ball_thumbnail/public/balls/columbia-300-ransom.png?itok=-q56XFtE",
       "coverstock": "Super Tilt Pearl",
       "coreType": "비대칭",
@@ -20473,7 +20473,7 @@
     {
       "id": "ebonite-mission-250k-domination",
       "brand": "Ebonite",
-      "name": "Mission $250k / Domination",
+      "name": "Mission \\$250k / Domination",
       "imageUrl": "https://bowwwl.com/sites/default/files/styles/ball_thumbnail/public/balls/ebonite-mission-250k.png?itok=vSwm3eSd",
       "coverstock": "XL1300",
       "coreType": "비대칭",
@@ -26101,7 +26101,7 @@
     {
       "id": "ebonite-mission-250k",
       "brand": "Ebonite",
-      "name": "Mission $250K",
+      "name": "Mission \\$250K",
       "imageUrl": null,
       "coverstock": "Pearl Reactive",
       "coreType": "비대칭",
@@ -42407,6 +42407,76 @@
       "intDiff": null,
       "releaseYear": null,
       "note": "Source: bowlingmall.co.kr (Korea)"
+    },
+    {
+      "id": "storm-lock-axis",
+      "brand": "Storm",
+      "name": "Lock Axis",
+      "imageUrl": "https://www.bowlingkorea.com/api/v1/attach/user/20260813da247cf5e7ff40149eca96845202f8da.jpg",
+      "coverstock": "N2X Hybrid Reactive",
+      "coreType": "비대칭",
+      "finish": "2000 Abralon",
+      "rg": 2.48,
+      "diff": 0.054,
+      "intDiff": null,
+      "releaseYear": 2026,
+      "note": "Source: bowlingkorea.com (Storm/Roto Grip Korea official importer)"
+    },
+    {
+      "id": "ebonite-spartan-melas",
+      "brand": "Ebonite",
+      "name": "Spartan Melas",
+      "imageUrl": "https://shop.perfectkorea.com/data/item/1788404833/thumb-7Iqk7YyM66W07YOE66mc65287Iqk_400x400.png",
+      "coverstock": "HK22C2 - Optimize Solid",
+      "coreType": "비대칭",
+      "finish": "500/1500 Siaair Micro Pad",
+      "rg": 2.473,
+      "diff": 0.053,
+      "intDiff": 0.019,
+      "releaseYear": 2026,
+      "note": "Source: perfectkorea.com (Ebonite/Track Korea official importer)"
+    },
+    {
+      "id": "hammer-effect-attack-red-solid",
+      "brand": "Hammer",
+      "name": "Effect Attack Red Solid",
+      "imageUrl": "https://www.mkmallkorea.com/data/item/1786441215/thumb-7I2464Sk7J28_650x650.jpg",
+      "coverstock": "HK22C2 Solid",
+      "coreType": "비대칭",
+      "finish": "500/1000/2000 Siaair Micro Pad",
+      "rg": 2.47,
+      "diff": 0.05,
+      "intDiff": 0.017,
+      "releaseYear": 2026,
+      "note": "Source: mkmallkorea.com (Hammer/Columbia/Elite Korea official importer)"
+    },
+    {
+      "id": "hammer-zero-mercy-ghost-pearl",
+      "brand": "Hammer",
+      "name": "Zero Mercy Ghost Pearl",
+      "imageUrl": "https://www.mkmallkorea.com/data/item/1783482828/thumb-7I2464Sk7J28_650x650.jpg",
+      "coverstock": "HK22C2 Pearl",
+      "coreType": "비대칭",
+      "finish": "500/1000/1500 Crown Factory Compound",
+      "rg": 2.524,
+      "diff": 0.053,
+      "intDiff": 0.02,
+      "releaseYear": 2026,
+      "note": "Source: mkmallkorea.com (Hammer/Columbia/Elite Korea official importer)"
+    },
+    {
+      "id": "hammer-gauntlet-knight-solid",
+      "brand": "Hammer",
+      "name": "Gauntlet Knight Solid",
+      "imageUrl": "https://www.mkmallkorea.com/data/item/1785143693/thumb-7I2464Sk7J28_650x650.jpg",
+      "coverstock": "HK22C2 Solid",
+      "coreType": "비대칭",
+      "finish": "500/1500 Siaair Micro Pad",
+      "rg": 2.501,
+      "diff": 0.05,
+      "intDiff": 0.012,
+      "releaseYear": 2026,
+      "note": "Source: mkmallkorea.com (Hammer/Columbia/Elite Korea official importer)"
     }
   ],
   "aliases": {
@@ -43834,7 +43904,7 @@
     "brunswick-lt-48-gold": "LT-48 골드",
     "columbia-resurgence-fire": "부활의 불",
     "columbia-ran-om-demand": "무작위 수요",
-    "columbia-ran-om": "Ran$om",
+    "columbia-ran-om": "Ran\\$om",
     "columbia-resurgence-2007": "리써전스 (2007)",
     "columbia-wrath": "분노",
     "columbia-wrath-xp": "분노 XP",
@@ -43872,7 +43942,7 @@
     "ebonite-warning-sign": "경고 표시",
     "ebonite-mission-x": "미션 X",
     "ebonite-game-changer": "게임 체인저",
-    "ebonite-mission-250k-domination": "미션 $250,000 / 지배",
+    "ebonite-mission-250k-domination": "미션 \\$250,000 / 지배",
     "ebonite-vital-energy": "활력 에너지",
     "ebonite-mission-2-0": "미션 2.0",
     "ebonite-undefeated-fire": "무패의 불",
@@ -44274,7 +44344,7 @@
     "ebonite-matrix-solid": "매트릭스 솔리드",
     "ebonite-maverick": "매버릭",
     "ebonite-maverick-pearl": "매버릭 펄",
-    "ebonite-mission-250k": "임무 $250,000",
+    "ebonite-mission-250k": "임무 \\$250,000",
     "ebonite-mission-unknown": "임무 알 수 없음",
     "ebonite-puma": "푸마",
     "ebonite-pursuit": "추격",
@@ -45438,7 +45508,12 @@
     "kr-radical-snap-shot": "스냅샷",
     "kr-brunswick-melee-redholic-x": "근접 레드홀릭 X",
     "kr-track-theorem-violet": "정리 바이올렛",
-    "kr-brunswick-hyperize-black": "하이퍼라이즈 (블랙)"
+    "kr-brunswick-hyperize-black": "하이퍼라이즈 (블랙)",
+    "storm-lock-axis": "락 액시스",
+    "ebonite-spartan-melas": "스파르탄 멜라스",
+    "hammer-effect-attack-red-solid": "이펙트 어택 레드 솔리드",
+    "hammer-zero-mercy-ghost-pearl": "제로 머시 고스트 펄",
+    "hammer-gauntlet-knight-solid": "건틀렛 나이트 솔리드"
   },
   "releaseDateSortKeys": {
     "900-honey-badger-darkout": 20260723,
@@ -48469,6 +48544,11 @@
     "kr-radical-snap-shot": 20250116,
     "kr-brunswick-melee-redholic-x": 20260101,
     "kr-track-theorem-violet": 101,
-    "kr-brunswick-hyperize-black": 101
+    "kr-brunswick-hyperize-black": 101,
+    "storm-lock-axis": 20260818,
+    "ebonite-spartan-melas": 20260914,
+    "hammer-effect-attack-red-solid": 20260101,
+    "hammer-zero-mercy-ghost-pearl": 20260101,
+    "hammer-gauntlet-knight-solid": 20260101
   }
 }
