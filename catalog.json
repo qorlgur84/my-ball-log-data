@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-07T11:52:53.352Z",
+  "updatedAt": "2026-09-07T13:32:23.350Z",
   "balls": [
     {
       "id": "900-honey-badger-darkout",
@@ -42638,11 +42638,11 @@
       "name": "Stealth Scarlet",
       "imageUrl": "https://shop.perfectkorea.com/data/item/1739419046/thumb-7Iqk7YWU7Iqk7Iqk7Lm866Cb_400x400.png",
       "coverstock": "QR-10 Hybrid",
-      "coreType": "대칭",
+      "coreType": "비대칭",
       "finish": "Factory Compound",
       "rg": 2.482,
       "diff": 0.056,
-      "intDiff": null,
+      "intDiff": 0.001,
       "releaseYear": 2025,
       "note": "Source: perfectkorea.com (Ebonite/Track Korea official importer)"
     },
