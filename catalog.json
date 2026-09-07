@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-07T11:32:56.439Z",
+  "updatedAt": "2026-09-07T11:47:55.983Z",
   "balls": [
     {
       "id": "900-honey-badger-darkout",
@@ -42428,11 +42428,11 @@
       "name": "Effect Attack Red Solid",
       "imageUrl": "https://www.mkmallkorea.com/data/item/1786441215/thumb-7I2464Sk7J28_650x650.jpg",
       "coverstock": "HK22C2 Solid",
-      "coreType": "비대칭",
+      "coreType": "대칭",
       "finish": "500/1000/2000 Siaair Micro Pad",
       "rg": 2.47,
       "diff": 0.05,
-      "intDiff": 0.017,
+      "intDiff": null,
       "releaseYear": 2026,
       "note": "Source: mkmallkorea.com (Hammer/Columbia/Elite Korea official importer)"
     },
@@ -42827,6 +42827,20 @@
       "intDiff": 0.015,
       "releaseYear": 2026,
       "note": "Source: brunswickkorea.co.kr (Brunswick/Radical/DV8 Korea official importer) - spec table is lazy-loaded inside a single tall description image, not visible in raw HTML/static image scan"
+    },
+    {
+      "id": "hammer-black-widow-toxin-hybrid-2",
+      "brand": "Hammer",
+      "name": "Black Widow Toxin Hybrid (Scarlet/Black/Purple)",
+      "imageUrl": "https://www.mkmallkorea.com/data/item/1788138870/thumb-7I2464Sk7J28_650x650.jpg",
+      "coverstock": "HK22C2 Hybrid",
+      "coreType": "대칭",
+      "finish": "500/1000/1500 Siaair Factory Compound",
+      "rg": 2.5,
+      "diff": 0.058,
+      "intDiff": null,
+      "releaseYear": 2026,
+      "note": "Source: mkmallkorea.com (Hammer/Columbia/Elite Korea official importer) - Gas Mask core, distinct from the 2024 bowwwl-sourced Black Widow Toxin Hybrid (different core/coverstock)"
     }
   ],
   "aliases": {
@@ -45888,7 +45902,8 @@
     "swag-incredible-boom": "인크레더블! 붐!",
     "swag-vulcan": "발칸",
     "brunswick-purple-titan-nirvana": "퍼플 타이탄 너바나",
-    "radical-prime-power-hitter": "프라임 파워 히터"
+    "radical-prime-power-hitter": "프라임 파워 히터",
+    "hammer-black-widow-toxin-hybrid-2": "블랙 위도우 톡신 하이브리드 (스칼렛/블랙/퍼플)"
   },
   "releaseDateSortKeys": {
     "900-honey-badger-darkout": 20260723,
@@ -48949,6 +48964,7 @@
     "swag-incredible-boom": 20260101,
     "swag-vulcan": 20260101,
     "brunswick-purple-titan-nirvana": 20260101,
-    "radical-prime-power-hitter": 20260101
+    "radical-prime-power-hitter": 20260101,
+    "hammer-black-widow-toxin-hybrid-2": 20260101
   }
 }
