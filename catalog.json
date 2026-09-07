@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-07T07:43:31.871Z",
+  "updatedAt": "2026-09-07T08:04:12.304Z",
   "balls": [
     {
       "id": "900-honey-badger-darkout",
@@ -42423,20 +42423,6 @@
       "note": "Source: bowlingkorea.com (Storm/Roto Grip Korea official importer)"
     },
     {
-      "id": "ebonite-spartan-melas",
-      "brand": "Ebonite",
-      "name": "Spartan Melas",
-      "imageUrl": "https://shop.perfectkorea.com/data/item/1788404833/thumb-7Iqk7YyM66W07YOE66mc65287Iqk_400x400.png",
-      "coverstock": "HK22C2 - Optimize Solid",
-      "coreType": "비대칭",
-      "finish": "500/1500 Siaair Micro Pad",
-      "rg": 2.473,
-      "diff": 0.053,
-      "intDiff": 0.019,
-      "releaseYear": 2026,
-      "note": "Source: perfectkorea.com (Ebonite/Track Korea official importer)"
-    },
-    {
       "id": "hammer-effect-attack-red-solid",
       "brand": "Hammer",
       "name": "Effect Attack Red Solid",
@@ -42477,6 +42463,34 @@
       "intDiff": 0.012,
       "releaseYear": 2026,
       "note": "Source: mkmallkorea.com (Hammer/Columbia/Elite Korea official importer)"
+    },
+    {
+      "id": "storm-ultimate-motor",
+      "brand": "Storm",
+      "name": "Ultimate Motor",
+      "imageUrl": "https://www.bowlingkorea.com/api/v1/attach/user/202607035ab86d3273004e55a07a3e5679b2ef75.jpg",
+      "coverstock": "N2X Solid Reactive",
+      "coreType": "비대칭",
+      "finish": "2000 Abralon",
+      "rg": 2.48,
+      "diff": 0.052,
+      "intDiff": 0.017,
+      "releaseYear": 2026,
+      "note": "Source: bowlingkorea.com (Storm/Roto Grip Korea official importer)"
+    },
+    {
+      "id": "roto-attention-bp",
+      "brand": "Roto Grip",
+      "name": "Attention B/P",
+      "imageUrl": "https://www.bowlingkorea.com/api/v1/attach/user/20260731316dee1d9d5c4fd191c380517e96a16b.jpg",
+      "coverstock": "V-R1 Pearl Reactive",
+      "coreType": "비대칭",
+      "finish": "1500 Polished",
+      "rg": 2.5,
+      "diff": 0.053,
+      "intDiff": 0.011,
+      "releaseYear": 2026,
+      "note": "Source: bowlingkorea.com (Storm/Roto Grip Korea official importer)"
     }
   ],
   "aliases": {
@@ -45510,10 +45524,11 @@
     "kr-track-theorem-violet": "정리 바이올렛",
     "kr-brunswick-hyperize-black": "하이퍼라이즈 (블랙)",
     "storm-lock-axis": "락 액시스",
-    "ebonite-spartan-melas": "스파르탄 멜라스",
     "hammer-effect-attack-red-solid": "이펙트 어택 레드 솔리드",
     "hammer-zero-mercy-ghost-pearl": "제로 머시 고스트 펄",
-    "hammer-gauntlet-knight-solid": "건틀렛 나이트 솔리드"
+    "hammer-gauntlet-knight-solid": "건틀렛 나이트 솔리드",
+    "storm-ultimate-motor": "얼티밋 모터",
+    "roto-attention-bp": "어텐션 B/P"
   },
   "releaseDateSortKeys": {
     "900-honey-badger-darkout": 20260723,
@@ -48546,9 +48561,10 @@
     "kr-track-theorem-violet": 101,
     "kr-brunswick-hyperize-black": 101,
     "storm-lock-axis": 20260818,
-    "ebonite-spartan-melas": 20260914,
     "hammer-effect-attack-red-solid": 20260101,
     "hammer-zero-mercy-ghost-pearl": 20260101,
-    "hammer-gauntlet-knight-solid": 20260101
+    "hammer-gauntlet-knight-solid": 20260101,
+    "storm-ultimate-motor": 20260707,
+    "roto-attention-bp": 20260804
   }
 }
