@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-07T09:47:45.112Z",
+  "updatedAt": "2026-09-07T10:54:25.439Z",
   "balls": [
     {
       "id": "900-honey-badger-darkout",
@@ -42743,6 +42743,90 @@
       "intDiff": null,
       "releaseYear": 2026,
       "note": "Source: lordfield.com (SWAG/Lord Field/Legends Korea official importer) - SWAG x Awesome Bowl TV collaboration"
+    },
+    {
+      "id": "swag-virtue",
+      "brand": "SWAG",
+      "name": "Virtue",
+      "imageUrl": "https://lordfield.com/web/upload/NNEditor/20260828/VIRTUE.png",
+      "coverstock": "SR300, AP26",
+      "coreType": "대칭",
+      "finish": "#3000 Sanded",
+      "rg": 2.522,
+      "diff": 0.032,
+      "intDiff": null,
+      "releaseYear": 2026,
+      "note": "Source: lordfield.com (SWAG/Lord Field/Legends Korea official importer) - spec poster is lazy-loaded (ec-data-src), not visible in raw HTML/static image scan"
+    },
+    {
+      "id": "legends-sapphire-diamond",
+      "brand": "Legends",
+      "name": "Sapphire Diamond",
+      "imageUrl": "https://lordfield.com/web/upload/NNEditor/20260806/copy-1785980914-SAPPHIRE-DIAMOND.png",
+      "coverstock": "P54 (Pearl)",
+      "coreType": "대칭",
+      "finish": "#1000 Polish",
+      "rg": 2.559,
+      "diff": 0.052,
+      "intDiff": null,
+      "releaseYear": 2026,
+      "note": "Source: lordfield.com (SWAG/Lord Field/Legends Korea official importer) - spec poster is lazy-loaded (ec-data-src), not visible in raw HTML/static image scan"
+    },
+    {
+      "id": "swag-incredible-boom",
+      "brand": "SWAG",
+      "name": "Incredible! Boom!",
+      "imageUrl": "https://lordfield.com/web/upload/NNEditor/20260713/INCREDIBLE21-BOOM21.png",
+      "coverstock": "M56 (Pearl)",
+      "coreType": "비대칭",
+      "finish": "#2000 Sanded",
+      "rg": 2.522,
+      "diff": 0.051,
+      "intDiff": 0.018,
+      "releaseYear": 2026,
+      "note": "Source: lordfield.com (SWAG/Lord Field/Legends Korea official importer) - spec poster is lazy-loaded (ec-data-src), not visible in raw HTML/static image scan"
+    },
+    {
+      "id": "swag-vulcan",
+      "brand": "SWAG",
+      "name": "Vulcan",
+      "imageUrl": "https://lordfield.com/web/upload/NNEditor/20260413/VULCAN.png",
+      "coverstock": "M56 (Solid)",
+      "coreType": "대칭",
+      "finish": "#3000 Sanded",
+      "rg": 2.491,
+      "diff": 0.052,
+      "intDiff": null,
+      "releaseYear": 2026,
+      "note": "Source: lordfield.com (SWAG/Lord Field/Legends Korea official importer) - spec poster is lazy-loaded (ec-data-src), not visible in raw HTML/static image scan"
+    },
+    {
+      "id": "brunswick-purple-titan-nirvana",
+      "brand": "Brunswick",
+      "name": "Purple Titan Nirvana",
+      "imageUrl": "https://ecimg.cafe24img.com/pg2569b05229912091/roundh/web/product/big/20260715/8ba74c86e4b4ef6b6dbaa28f874ccc75.png",
+      "coverstock": "HK22 - ECS Hook 3.0+",
+      "coreType": "비대칭",
+      "finish": "500, 1000 Siaair, Crown Factory Compound",
+      "rg": 2.477,
+      "diff": 0.054,
+      "intDiff": 0.013,
+      "releaseYear": 2026,
+      "note": "Source: brunswickkorea.co.kr (Brunswick/Radical/DV8 Korea official importer) - spec table is lazy-loaded inside a single tall description image, not visible in raw HTML/static image scan"
+    },
+    {
+      "id": "radical-prime-power-hitter",
+      "brand": "Radical",
+      "name": "Prime Power Hitter",
+      "imageUrl": "https://ecimg.cafe24img.com/pg2569b05229912091/roundh/web/product/big/20260608/7ba117353d62a78f212cbe285cf42444.png",
+      "coverstock": "HK22C - Textured Hybrid 2.0",
+      "coreType": "비대칭",
+      "finish": "500/1000/1500 Siaair, Crown Factory Compound",
+      "rg": 2.488,
+      "diff": 0.053,
+      "intDiff": 0.015,
+      "releaseYear": 2026,
+      "note": "Source: brunswickkorea.co.kr (Brunswick/Radical/DV8 Korea official importer) - spec table is lazy-loaded inside a single tall description image, not visible in raw HTML/static image scan"
     }
   ],
   "aliases": {
@@ -45798,7 +45882,13 @@
     "track-theorem-black-urethane": "씨어럼 블랙 우레탄",
     "track-theorem-pearl-urethane": "씨어럼 펄 우레탄",
     "brunswick-lt-48-pro-sapphire": "LT-48 프로 사파이어",
-    "swag-5-board": "5보드"
+    "swag-5-board": "5보드",
+    "swag-virtue": "버츄",
+    "legends-sapphire-diamond": "사파이어 다이아몬드",
+    "swag-incredible-boom": "인크레더블! 붐!",
+    "swag-vulcan": "발칸",
+    "brunswick-purple-titan-nirvana": "퍼플 타이탄 너바나",
+    "radical-prime-power-hitter": "프라임 파워 히터"
   },
   "releaseDateSortKeys": {
     "900-honey-badger-darkout": 20260723,
@@ -48853,6 +48943,12 @@
     "track-theorem-black-urethane": 20250101,
     "track-theorem-pearl-urethane": 20250101,
     "brunswick-lt-48-pro-sapphire": 20250101,
-    "swag-5-board": 20260101
+    "swag-5-board": 20260101,
+    "swag-virtue": 20260101,
+    "legends-sapphire-diamond": 20260101,
+    "swag-incredible-boom": 20260101,
+    "swag-vulcan": 20260101,
+    "brunswick-purple-titan-nirvana": 20260101,
+    "radical-prime-power-hitter": 20260101
   }
 }
