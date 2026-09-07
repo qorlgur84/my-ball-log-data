@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-07T10:54:25.439Z",
+  "updatedAt": "2026-09-07T11:32:56.439Z",
   "balls": [
     {
       "id": "900-honey-badger-darkout",
@@ -42153,7 +42153,7 @@
       "rg": 2.48,
       "diff": 0.054,
       "intDiff": null,
-      "releaseYear": null,
+      "releaseYear": 2025,
       "note": "Source: bowlingmall.co.kr (Korea)"
     },
     {
@@ -42167,7 +42167,7 @@
       "rg": 2.47,
       "diff": 0.052,
       "intDiff": null,
-      "releaseYear": null,
+      "releaseYear": 2019,
       "note": "Source: bowlingmall.co.kr (Korea)"
     },
     {
@@ -42181,7 +42181,7 @@
       "rg": 2.48,
       "diff": 0.054,
       "intDiff": 0.015,
-      "releaseYear": null,
+      "releaseYear": 2025,
       "note": "Source: bowlingmall.co.kr (Korea)"
     },
     {
@@ -42195,7 +42195,7 @@
       "rg": 2.48,
       "diff": 0.054,
       "intDiff": 0.015,
-      "releaseYear": null,
+      "releaseYear": 2020,
       "note": "Source: bowlingmall.co.kr (Korea)"
     },
     {
@@ -42209,7 +42209,7 @@
       "rg": 2.517,
       "diff": 0.044,
       "intDiff": 0.027,
-      "releaseYear": null,
+      "releaseYear": 2020,
       "note": "Source: bowlingmall.co.kr (Korea)"
     },
     {
@@ -42223,7 +42223,7 @@
       "rg": 2.47,
       "diff": 0.049,
       "intDiff": null,
-      "releaseYear": null,
+      "releaseYear": 2020,
       "note": "Source: bowlingmall.co.kr (Korea)"
     },
     {
@@ -42237,7 +42237,7 @@
       "rg": 2.49,
       "diff": 0.053,
       "intDiff": null,
-      "releaseYear": null,
+      "releaseYear": 2020,
       "note": "Source: bowlingmall.co.kr (Korea)"
     },
     {
@@ -42251,7 +42251,7 @@
       "rg": 2.517,
       "diff": 0.044,
       "intDiff": 0.027,
-      "releaseYear": null,
+      "releaseYear": 2022,
       "note": "Source: bowlingmall.co.kr (Korea)"
     },
     {
@@ -42265,7 +42265,7 @@
       "rg": 2.533,
       "diff": 0.044,
       "intDiff": null,
-      "releaseYear": null,
+      "releaseYear": 2023,
       "note": "Source: bowlingmall.co.kr (Korea)"
     },
     {
@@ -42279,7 +42279,7 @@
       "rg": 2.533,
       "diff": 0.044,
       "intDiff": null,
-      "releaseYear": null,
+      "releaseYear": 2023,
       "note": "Source: bowlingmall.co.kr (Korea)"
     },
     {
@@ -42293,7 +42293,7 @@
       "rg": 2.463,
       "diff": 0.053,
       "intDiff": 0.019,
-      "releaseYear": null,
+      "releaseYear": 2022,
       "note": "Source: bowlingmall.co.kr (Korea)"
     },
     {
@@ -42307,7 +42307,7 @@
       "rg": 2.481,
       "diff": 0.053,
       "intDiff": 0.016,
-      "releaseYear": null,
+      "releaseYear": 2021,
       "note": "Source: bowlingmall.co.kr (Korea)"
     },
     {
@@ -42321,7 +42321,7 @@
       "rg": 2.481,
       "diff": 0.053,
       "intDiff": 0.016,
-      "releaseYear": null,
+      "releaseYear": 2022,
       "note": "Source: bowlingmall.co.kr (Korea)"
     },
     {
@@ -42335,7 +42335,7 @@
       "rg": 2.69,
       "diff": 0.006,
       "intDiff": null,
-      "releaseYear": null,
+      "releaseYear": 2023,
       "note": "Source: bowlingmall.co.kr (Korea)"
     },
     {
@@ -42391,7 +42391,7 @@
       "rg": 2.473,
       "diff": 0.046,
       "intDiff": 0.017,
-      "releaseYear": null,
+      "releaseYear": 2026,
       "note": "Source: bowlingmall.co.kr (Korea)"
     },
     {
@@ -42405,7 +42405,7 @@
       "rg": 2.51,
       "diff": 0.056,
       "intDiff": null,
-      "releaseYear": null,
+      "releaseYear": 2026,
       "note": "Source: bowlingmall.co.kr (Korea)"
     },
     {
@@ -48901,25 +48901,25 @@
     "track-rising-se": 20080101,
     "track-607a-special-edition": 20100101,
     "track-505a": 20090101,
-    "kr-hammer-amazing-rip-d": 101,
-    "kr-columbia-lit-navy": 101,
-    "kr-track-in2ition": 101,
-    "kr-track-in2ition-solid": 101,
-    "kr-radical-results-pearl": 101,
-    "kr-hammer-the-sauce": 101,
-    "kr-hammer-redemption-tour": 101,
-    "kr-radical-results-solid": 101,
-    "kr-swag-geek-purple-gold-silver": 101,
-    "kr-swag-geek-lollipop": 101,
-    "kr-ebonite-the-one-rnb": 101,
-    "kr-track-t-shark-red-orange-black": 101,
-    "kr-track-t-shark-red": 101,
-    "kr-storm-ice-lavender": 101,
+    "kr-hammer-amazing-rip-d": 20250101,
+    "kr-columbia-lit-navy": 20190301,
+    "kr-track-in2ition": 20250501,
+    "kr-track-in2ition-solid": 20200609,
+    "kr-radical-results-pearl": 20200305,
+    "kr-hammer-the-sauce": 20200331,
+    "kr-hammer-redemption-tour": 20201101,
+    "kr-radical-results-solid": 20220201,
+    "kr-swag-geek-purple-gold-silver": 20230401,
+    "kr-swag-geek-lollipop": 20230401,
+    "kr-ebonite-the-one-rnb": 20220401,
+    "kr-track-t-shark-red-orange-black": 20210601,
+    "kr-track-t-shark-red": 20220701,
+    "kr-storm-ice-lavender": 20230701,
     "kr-ebonite-game-breaker5": 20240321,
     "kr-radical-snap-shot": 20250116,
     "kr-brunswick-melee-redholic-x": 20260101,
-    "kr-track-theorem-violet": 101,
-    "kr-brunswick-hyperize-black": 101,
+    "kr-track-theorem-violet": 20260601,
+    "kr-brunswick-hyperize-black": 20260910,
     "storm-lock-axis": 20260818,
     "hammer-effect-attack-red-solid": 20260101,
     "hammer-zero-mercy-ghost-pearl": 20260101,
