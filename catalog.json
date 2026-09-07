@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-07T11:47:55.983Z",
+  "updatedAt": "2026-09-07T11:52:53.352Z",
   "balls": [
     {
       "id": "900-honey-badger-darkout",
@@ -42428,11 +42428,11 @@
       "name": "Effect Attack Red Solid",
       "imageUrl": "https://www.mkmallkorea.com/data/item/1786441215/thumb-7I2464Sk7J28_650x650.jpg",
       "coverstock": "HK22C2 Solid",
-      "coreType": "대칭",
+      "coreType": "비대칭",
       "finish": "500/1000/2000 Siaair Micro Pad",
       "rg": 2.47,
       "diff": 0.05,
-      "intDiff": null,
+      "intDiff": 0.017,
       "releaseYear": 2026,
       "note": "Source: mkmallkorea.com (Hammer/Columbia/Elite Korea official importer)"
     },
@@ -42834,11 +42834,11 @@
       "name": "Black Widow Toxin Hybrid (Scarlet/Black/Purple)",
       "imageUrl": "https://www.mkmallkorea.com/data/item/1788138870/thumb-7I2464Sk7J28_650x650.jpg",
       "coverstock": "HK22C2 Hybrid",
-      "coreType": "대칭",
+      "coreType": "비대칭",
       "finish": "500/1000/1500 Siaair Factory Compound",
       "rg": 2.5,
       "diff": 0.058,
-      "intDiff": null,
+      "intDiff": 0.016,
       "releaseYear": 2026,
       "note": "Source: mkmallkorea.com (Hammer/Columbia/Elite Korea official importer) - Gas Mask core, distinct from the 2024 bowwwl-sourced Black Widow Toxin Hybrid (different core/coverstock)"
     }
