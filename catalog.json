@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-07T09:24:28.862Z",
+  "updatedAt": "2026-09-07T09:47:45.112Z",
   "balls": [
     {
       "id": "900-honey-badger-darkout",
@@ -42729,6 +42729,20 @@
       "intDiff": 0.015,
       "releaseYear": 2025,
       "note": "Source: brunswickkorea.co.kr (Brunswick/Radical/DV8 Korea official importer) - Johnny Petraglia signature line"
+    },
+    {
+      "id": "swag-5-board",
+      "brand": "SWAG",
+      "name": "5 Board",
+      "imageUrl": "https://www.lordfield.com/web/product/big/202605/528ccae7f2be882d292e21fdd64a34e7.png",
+      "coverstock": "M56 Solid",
+      "coreType": "대칭",
+      "finish": "3000 Sanded",
+      "rg": 2.585,
+      "diff": 0.021,
+      "intDiff": null,
+      "releaseYear": 2026,
+      "note": "Source: lordfield.com (SWAG/Lord Field/Legends Korea official importer) - SWAG x Awesome Bowl TV collaboration"
     }
   ],
   "aliases": {
@@ -45783,7 +45797,8 @@
     "track-theorem-78d-urethane": "씨어럼 78D 우레탄",
     "track-theorem-black-urethane": "씨어럼 블랙 우레탄",
     "track-theorem-pearl-urethane": "씨어럼 펄 우레탄",
-    "brunswick-lt-48-pro-sapphire": "LT-48 프로 사파이어"
+    "brunswick-lt-48-pro-sapphire": "LT-48 프로 사파이어",
+    "swag-5-board": "5보드"
   },
   "releaseDateSortKeys": {
     "900-honey-badger-darkout": 20260723,
@@ -48837,6 +48852,7 @@
     "track-theorem-78d-urethane": 20260101,
     "track-theorem-black-urethane": 20250101,
     "track-theorem-pearl-urethane": 20250101,
-    "brunswick-lt-48-pro-sapphire": 20250101
+    "brunswick-lt-48-pro-sapphire": 20250101,
+    "swag-5-board": 20260101
   }
 }
