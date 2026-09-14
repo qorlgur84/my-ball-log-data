@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-07T13:32:23.350Z",
+  "updatedAt": "2026-09-14T09:52:39.267Z",
   "balls": [
     {
       "id": "900-honey-badger-darkout",
@@ -42841,6 +42841,20 @@
       "intDiff": 0.016,
       "releaseYear": 2026,
       "note": "Source: mkmallkorea.com (Hammer/Columbia/Elite Korea official importer) - Gas Mask core, distinct from the 2024 bowwwl-sourced Black Widow Toxin Hybrid (different core/coverstock)"
+    },
+    {
+      "id": "brunswick-lt-48-pro-ruby",
+      "brand": "Brunswick",
+      "name": "LT-48 Pro Ruby",
+      "imageUrl": "https://ecimg.cafe24img.com/pg2569b05229912091/roundh/web/product/big/20260507/ee3ba0eecc6528a6a50b950dfc04a3a8.png",
+      "coverstock": "Savvy Hook Ultra+ HK22",
+      "coreType": "비대칭",
+      "finish": "500/1000 Siaair/Crown Factory Compound",
+      "rg": 2.488,
+      "diff": 0.052,
+      "intDiff": 0.015,
+      "releaseYear": 2026,
+      "note": "Source: brunswickkorea.co.kr (Brunswick/Radical/DV8 Korea official importer) - Johnny Petraglia LT-48 Pro signature line, same core/coverstock as LT-48 Pro Sapphire, different colorway"
     }
   ],
   "aliases": {
@@ -45903,7 +45917,8 @@
     "swag-vulcan": "발칸",
     "brunswick-purple-titan-nirvana": "퍼플 타이탄 너바나",
     "radical-prime-power-hitter": "프라임 파워 히터",
-    "hammer-black-widow-toxin-hybrid-2": "블랙 위도우 톡신 하이브리드 (스칼렛/블랙/퍼플)"
+    "hammer-black-widow-toxin-hybrid-2": "블랙 위도우 톡신 하이브리드 (스칼렛/블랙/퍼플)",
+    "brunswick-lt-48-pro-ruby": "LT-48 프로 루비"
   },
   "releaseDateSortKeys": {
     "900-honey-badger-darkout": 20260723,
@@ -48965,6 +48980,7 @@
     "swag-vulcan": 20260101,
     "brunswick-purple-titan-nirvana": 20260101,
     "radical-prime-power-hitter": 20260101,
-    "hammer-black-widow-toxin-hybrid-2": 20260101
+    "hammer-black-widow-toxin-hybrid-2": 20260101,
+    "brunswick-lt-48-pro-ruby": 20260101
   }
 }
