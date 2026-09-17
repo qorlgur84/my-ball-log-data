@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-14T09:52:39.267Z",
+  "updatedAt": "2026-09-17T15:42:13.508Z",
   "balls": [
     {
       "id": "900-honey-badger-darkout",
@@ -42855,6 +42855,20 @@
       "intDiff": 0.015,
       "releaseYear": 2026,
       "note": "Source: brunswickkorea.co.kr (Brunswick/Radical/DV8 Korea official importer) - Johnny Petraglia LT-48 Pro signature line, same core/coverstock as LT-48 Pro Sapphire, different colorway"
+    },
+    {
+      "id": "storm-mix-daybreak",
+      "brand": "Storm",
+      "name": "Mix Daybreak",
+      "imageUrl": "https://bowlingkorea.com/api/v1/attach/user/20260916f7108586a9df4062901547da3f31c47d.jpg",
+      "coverstock": "U1S Pearl Urethane",
+      "coreType": "대칭",
+      "finish": "3500 Grit Polished",
+      "rg": 2.69,
+      "diff": 0.006,
+      "intDiff": null,
+      "releaseYear": 2026,
+      "note": "Source: bowlingkorea.com (Storm/Roto Grip Korea official importer), 출시일 2026.09.17"
     }
   ],
   "aliases": {
@@ -45918,7 +45932,8 @@
     "brunswick-purple-titan-nirvana": "퍼플 타이탄 너바나",
     "radical-prime-power-hitter": "프라임 파워 히터",
     "hammer-black-widow-toxin-hybrid-2": "블랙 위도우 톡신 하이브리드 (스칼렛/블랙/퍼플)",
-    "brunswick-lt-48-pro-ruby": "LT-48 프로 루비"
+    "brunswick-lt-48-pro-ruby": "LT-48 프로 루비",
+    "storm-mix-daybreak": "믹스 데이브레이크"
   },
   "releaseDateSortKeys": {
     "900-honey-badger-darkout": 20260723,
@@ -48981,6 +48996,7 @@
     "brunswick-purple-titan-nirvana": 20260101,
     "radical-prime-power-hitter": 20260101,
     "hammer-black-widow-toxin-hybrid-2": 20260101,
-    "brunswick-lt-48-pro-ruby": 20260101
+    "brunswick-lt-48-pro-ruby": 20260101,
+    "storm-mix-daybreak": 20260917
   }
 }
